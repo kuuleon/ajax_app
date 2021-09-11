@@ -13,3 +13,4 @@ function post (){ //リクエストを送信する処理
 };
  
  window.addEventListener('load', post);
+ //ページが読み込まれることをトリガーにして、処理が実行されるように関数を定義
